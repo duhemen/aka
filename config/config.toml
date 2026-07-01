@@ -1,0 +1,17 @@
+[theme]
+# Opsi 1: DARK MODE ELEGAN - Ungu Malam Tender
+primaryColor = "#8B5CF6"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#F1F5F9"
+font = "sans serif"
+
+# Opsi 2: LIGHT MODE CLEAN - Putih Kantor LPSE
+# primaryColor = "#667eea"
+# backgroundColor = "#FFFFFF"
+# secondaryBackgroundColor = "#F8FAFC"
+# textColor = "#1E293B"
+# font = "sans serif"
+
+# Opsi 3: SYSTEM - Ngikutin Dark/Light Windows kamu
+# base = "light" # ganti jadi "dark" kalau mau default gelap

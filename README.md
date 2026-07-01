@@ -104,7 +104,7 @@ pip install -r requirements.txt
 📸 Demo
 Berikut adalah tampilan awal AKA Validator Pro 2026 saat dijalankan. Antarmuka yang bersih dan responsif siap menerima file RAB Penawar untuk diaudit.
 
-<div align="center"> <img src="demo-landing.png" alt="AKA Validator Pro Landing Page" width="90%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);"> <br> <em>Tampilan awal aplikasi: Siap mengaudit RAB dalam hitungan detik.</em> </div>
+<div align="center"> <img src="screenshot.png" alt="AKA Validator Pro Landing Page" width="90%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);"> <br> <em>Tampilan awal aplikasi: Siap mengaudit RAB dalam hitungan detik.</em> </div>
 📜 Basis Hukum
 Fitur evaluasi harga pada AKA Validator Pro didasari oleh peraturan perundang-undangan yang berlaku di Indonesia:
 
